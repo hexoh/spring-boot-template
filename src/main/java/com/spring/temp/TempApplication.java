@@ -1,13 +1,13 @@
-package com.tianmu.ua;
+package com.spring.temp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UaApplication {
+public class TempApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(UaApplication.class, args);
+        SpringApplication.run(TempApplication.class, args);
     }
 
 }

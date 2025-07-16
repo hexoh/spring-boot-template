@@ -1,4 +1,4 @@
-package com.tianmu.ua;
+package com.spring.temp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
